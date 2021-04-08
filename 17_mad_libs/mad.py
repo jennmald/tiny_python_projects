@@ -8,6 +8,8 @@ Purpose: Mad Libs: Using Regular Expressions
 import argparse
 import os
 import re
+import sys
+
 
 # --------------------------------------------------
 def get_args():
